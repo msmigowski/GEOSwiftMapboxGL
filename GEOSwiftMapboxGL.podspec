@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
 
   s.dependency "GEOSwift", '~> 3.0'
-  s.dependency "Mapbox-iOS-SDK", '~> 4.0'
+  s.dependency "Mapbox-iOS-SDK"
 
 end
